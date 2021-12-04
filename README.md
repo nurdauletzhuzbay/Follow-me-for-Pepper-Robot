@@ -1,4 +1,4 @@
-Assignment 2 Nurdaulet Zhuzbay
+This project tries to implement the [Follow Me](https://www.youtube.com/watch?v=K-fXHvKL86w) algorithm for pepper robot. It requires to download Choregraphe. 
 
 1) First source the python naoqi variables (I used mac so I printed on terminal these commands:)
 
@@ -14,7 +14,3 @@ export QI_SDK_PREFIX=/Users/nurdauletzhuzbay/Desktop/pynaoqi-python2.7-2.8.7.4-m
 3) Run the script as python main.py
 
 4) Change the LShoulderPitch and lWristYaw angles to change the speed and direction of the robot
-
-5) https://youtu.be/WOO_b3hHcFQ
-
-Youtube link to the video (Unlisted)
