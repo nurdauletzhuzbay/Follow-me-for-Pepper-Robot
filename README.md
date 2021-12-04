@@ -15,3 +15,4 @@ export QI_SDK_PREFIX=/Users/nurdauletzhuzbay/Desktop/pynaoqi-python2.7-2.8.7.4-m
 
 4) Change the LShoulderPitch and lWristYaw angles to change the speed and direction of the robot
 
+![choregraphe pepper](https://github.com/nurdauletzhuzbay/Follow-me-for-Pepper-Robot/blob/master/pepper.png)
